@@ -5,6 +5,7 @@ gymnasium
 numpy
 matplotlib
 tabulate
+pandas
 
 
 # Add your own dependencies here
